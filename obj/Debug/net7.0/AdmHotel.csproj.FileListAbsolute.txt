@@ -1,0 +1,15 @@
+/home/gabriel/Desktop/VSProjects/AdmHotel/bin/Debug/net7.0/AdmHotel
+/home/gabriel/Desktop/VSProjects/AdmHotel/bin/Debug/net7.0/AdmHotel.deps.json
+/home/gabriel/Desktop/VSProjects/AdmHotel/bin/Debug/net7.0/AdmHotel.runtimeconfig.json
+/home/gabriel/Desktop/VSProjects/AdmHotel/bin/Debug/net7.0/AdmHotel.dll
+/home/gabriel/Desktop/VSProjects/AdmHotel/bin/Debug/net7.0/AdmHotel.pdb
+/home/gabriel/Desktop/VSProjects/AdmHotel/obj/Debug/net7.0/AdmHotel.csproj.AssemblyReference.cache
+/home/gabriel/Desktop/VSProjects/AdmHotel/obj/Debug/net7.0/AdmHotel.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabriel/Desktop/VSProjects/AdmHotel/obj/Debug/net7.0/AdmHotel.AssemblyInfoInputs.cache
+/home/gabriel/Desktop/VSProjects/AdmHotel/obj/Debug/net7.0/AdmHotel.AssemblyInfo.cs
+/home/gabriel/Desktop/VSProjects/AdmHotel/obj/Debug/net7.0/AdmHotel.csproj.CoreCompileInputs.cache
+/home/gabriel/Desktop/VSProjects/AdmHotel/obj/Debug/net7.0/AdmHotel.dll
+/home/gabriel/Desktop/VSProjects/AdmHotel/obj/Debug/net7.0/refint/AdmHotel.dll
+/home/gabriel/Desktop/VSProjects/AdmHotel/obj/Debug/net7.0/AdmHotel.pdb
+/home/gabriel/Desktop/VSProjects/AdmHotel/obj/Debug/net7.0/AdmHotel.genruntimeconfig.cache
+/home/gabriel/Desktop/VSProjects/AdmHotel/obj/Debug/net7.0/ref/AdmHotel.dll
